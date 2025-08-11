@@ -63,7 +63,7 @@ I build machine learning models and deploy them as web applications using Python
         <strong>Data Analytics Seminar</strong><br>
         Fixity EDX • Aug 2025<br>
         <a href="https://drive.google.com/your-link-1">
-          <img src="https://img.shields.io/badge/View%20Certificate-Open-blue?style=for-the-badge" alt="View Certificate">
+          <img src="/storage/emulated/0/DCIM/Camera/data analytics.jpg" alt="View Certificate">
         </a>
       </td>
       <td align="center">
