@@ -54,7 +54,28 @@ I build machine learning models and deploy them as web applications using Python
 ### 🏆 Learning & Growth
 - 📚 Currently mastering: **Deep Learning, NLP, and Model Deployment**
 - 🏅 Kaggle: [Add your profile link if any, e.g., `kaggle.com/yourname`]
-- 📄 Certifications: [e.g., "Google Data Analytics", "Coursera: ML by Andrew Ng"]
+- ### 📜 Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>Data Analytics Seminar</strong><br>
+        Fixity EDX • Aug 2025<br>
+        <a href="https://drive.google.com/your-link-1">
+          <img src="https://img.shields.io/badge/View%20Certificate-Open-blue?style=for-the-badge" alt="View Certificate">
+        </a>
+      </td>
+      <td align="center">
+        <strong>AI & Python Workshop</strong><br>
+        Fixity EDX • Aug 2025<br>
+        <a href="https://drive.google.com/your-link-2">
+          <img src="https://img.shields.io/badge/View%20Certificate-Open-blue?style=for-the-badge" alt="View Certificate">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
