@@ -69,7 +69,7 @@ I build machine learning models and deploy them as web applications using Python
       <td align="center">
         <strong>AI & Python Workshop</strong><br>
         Fixity EDX • Aug 2025<br>
-        <a href="https://drive.google.com/your-link-2">
+        <a href="https://drive.google.com/file/d/1iL63htJPO5TZU3xFcle4yNz5NUAKmGUN/view?usp=drivesdk">
           <img src="https://img.shields.io/badge/View%20Certificate-Open-blue?style=for-the-badge" alt="View Certificate">
         </a>
       </td>
